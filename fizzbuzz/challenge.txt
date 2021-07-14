@@ -1,0 +1,4 @@
+Write a program that outputs the numbers 1 to 100. 
+If the number is a multiple of 3, output fizz instead. 
+If the number is a multiple of 5, output buzz instead.
+If it is a multiple of both, output fizzbuzz.
