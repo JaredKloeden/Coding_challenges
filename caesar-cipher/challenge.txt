@@ -1,0 +1,2 @@
+Write a program that implements the caesar cipher.
+It can both encrypt and decrypt, depending on users choice.
