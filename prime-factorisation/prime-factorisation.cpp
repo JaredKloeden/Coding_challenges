@@ -24,7 +24,7 @@ int main(int argc, char const *argv[])
     }
 
     //Check all remaining odd factors
-    for (int i = 3; i < num; i = i + 2)
+    for (int i = 3; i < num/2; i = i + 2)
     {
         if (num % i == 0)
         {
