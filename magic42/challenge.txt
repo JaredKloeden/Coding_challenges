@@ -1,0 +1,2 @@
+Given 5 numbers, figure out if it is possible to create the number 42 using only the operations +, -, *
+To use the program, enter each of the 5 numbers in stdin with a space between each number.
